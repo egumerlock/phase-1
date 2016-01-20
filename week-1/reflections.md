@@ -65,3 +65,12 @@ help – informs the user of the operating systems stats and gives all possible 
 
 
 ## 1.4 Forking and Cloning
+To create a new repo, sign into github, on the top right there is a + symbol. Press on that and a drop down menu will pop up. Select the "New Repository" tab. This will bring you to a new screen. On this screen you name your repository, select whether it is public or private(whether anyone can see it or only people you allow), select a license and lastly, press create repository.
+
+In order to fork a repo, firstly you must be signed into your account. find the repo you would like to fork, and towards the top right there is a fork button. Press the button and select to what account or repository you would like to fork it too.
+
+To clone a repository locally to your computer you first open up the command line terminal, or command prompt in windows. Use "pwd" to see which directory you're in. If you aren't in the directory you want to be in to clone the repo into, you can either make a new directory by using "mkdir" and typing a new for the directory, or use "cd" to change into a existing directory. Once you are in the directory you want, use the command "git clone" followed by the URL of the repository you are cloning. This URL can be found on the repositories on github next to the "new file", "find file" and "HTTPS" buttons. Once you paste that next to the "git clone" command just press enter and the computer will do the rest.
+
+The benefits of forking a repository is that you can follow the changes and processes the original user makes to the repository. If you make a new repository, you would only see your own changes.
+
+I didn't find this challenge too complicated. The instructions and videos were very straight forward and I felt as if I was understanding everything from the first time. However if I was to choose the most challenging aspect to understand, I would have to say it was forking. I finally understood the reason behind it, it is useful to track other peoples work without having to create a new repository.
