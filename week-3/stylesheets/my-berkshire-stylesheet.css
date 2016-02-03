@@ -1,0 +1,64 @@
+span{
+  font-size: 1.2em
+}
+
+header{
+  color: #000080;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: .1em;
+  display: block;
+  clear: none;
+}
+
+.text{
+  color: #000080;
+}
+
+a{
+  color: #800080;
+}
+
+a:visited{
+  color:#ff0000;
+}
+
+body{
+background-color: #ffffff;
+}
+
+.column1{
+  float: left;
+  width: 500px;
+}
+
+.column2{
+  float: right;
+  width:500px;
+}
+
+div{
+  float: bottom;
+  text-align: center;
+  display: inline-block;
+  clear: top;
+  color: #000080;
+}
+
+#border{
+  border-width: thick;
+  border-color: black;
+}
+
+/*
+1.What is important to know when linking an external file (like a stylesheet) to an HTML file?
+-It is extremely important to know the path from the HTML file to the CSS file
+2.What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+-I found it extremly hard to position the elements like I wanted them. Ultimately I stuck with float, clear, and width to style them similar to the actual website.
+3.What CSS did you use to modify the element style (like size, color, etc.)
+-I used font-family,font-size, color, text-transform, and a few other formatting ones.
+4.Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+-I used both classes and id's. I used a classes to make the font all the same and an id for the links to make them a different color. Because the id was inside the class it overwrote the class.
+5.When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+-I felt as if my code was clean, but the actual sites code was more detailed. They even had a code for the line breaks which I couldnt seem to figure out how to do in CSS. Ultimately I got my site very similar to the actual one. But without the line breaks.
+*/
