@@ -1,12 +1,12 @@
-![Exercise 1](/imgs/Screen Shot 2016-02-03 at 12.58.30 PM.png)
-![Exercise 2](/imgs/Screen Shot 2016-02-03 at 1.01.44 PM.png)
-![Exercise 3](/imgs/Screen Shot 2016-02-03 at 1.05.36 PM.png)
-![Exercise 4](/imgs/Screen Shot 2016-02-03 at 1.12.21 PM.png)
-![Exercise 5](/imgs/Screen Shot 2016-02-03 at 1.15.09 PM.png)
-![Exercise 6](/imgs/Screen Shot 2016-02-03 at 1.20.03 PM.png)
-![Exercise 7](/imgs/Screen Shot 2016-02-03 at 1.35.56 PM.png)
-![Exercise 8](/imgs/Screen Shot 2016-02-03 at 1.43.08 PM.png)
-![Exercise 9](/imgs/Screen Shot 2016-02-03 at 2.03.28 PM.png)
+![Exercise 1](imgs/Screen Shot 2016-02-03 at 12.58.30 PM.png)
+![Exercise 2](imgs/Screen Shot 2016-02-03 at 1.01.44 PM.png)
+![Exercise 3](imgs/Screen Shot 2016-02-03 at 1.05.36 PM.png)
+![Exercise 4](imgs/Screen Shot 2016-02-03 at 1.12.21 PM.png)
+![Exercise 5](imgs/Screen Shot 2016-02-03 at 1.15.09 PM.png)
+![Exercise 6](imgs/Screen Shot 2016-02-03 at 1.20.03 PM.png)
+![Exercise 7](imgs/Screen Shot 2016-02-03 at 1.35.56 PM.png)
+![Exercise 8](imgs/Screen Shot 2016-02-03 at 1.43.08 PM.png)
+![Exercise 9](imgs/Screen Shot 2016-02-03 at 2.03.28 PM.png)
 
 1.How can you use Chrome's DevTools inspector to help you format or position elements?
 - You can play around with attributes and values and see the changes happen in real time. This is a huge time saver than actually changing code, commiting it, and opening it to inspect it.
