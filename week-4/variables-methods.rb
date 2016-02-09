@@ -12,8 +12,8 @@ favorite_number  = gets.chomp.to_i
 better_number = favorite_number + 1
 puts "#{favorite_number} is a good number, but I think that #{better_number} is better."
 
-https://github.com/leokukhar/phase-0/blob/master/week-4/address/my_solution.rb
-https://github.com/leokukhar/phase-0/blob/master/week-4/math/my_solution.rb
+[Address Solution](address/my_solution.rb)
+[Math Solution](math/my_solution.rb)
 
 =begin
 
