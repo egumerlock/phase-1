@@ -28,3 +28,7 @@
 - A local variable is one that is used within a certain scope. For example if you want to use a variable within a certain block, you could assign a local variable that would only be called in that block and not outside it. It is useful incase you want to overwrite the variable in the larger scope while using the same variable name.
 6.How was this challenge? Did you get a good review of some of the basics?
 - This challenge wasn't as difficult as I though it would be. As long as I took a step back and reread the instructions it actually went very smoothly. It was definetly a good review of the basics.
+
+[basic-math](basic-math.rb)
+[defining-variables](defining-variables.rb)
+[simple-string](simple-string.rb)
