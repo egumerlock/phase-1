@@ -107,6 +107,7 @@ end
 
 
 # Reflection
+
 =begin
 What was the most difficult part of this challenge for you and your pair?
 - Trying to figure out the order to go about this challenge.
