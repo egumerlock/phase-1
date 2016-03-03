@@ -6,7 +6,7 @@
 # EXPLANATION OF require_relative
 # Require relative is a clause which tells the file that it is in; that it needs a file outside the current one for this program to evaluate. "Relative" means that the path to the needed file will be written as relative from the current file.
 #
-
+require_relative 'state_data'
 class VirusPredictor
 # Resposible for creating a new instance of the class and setting the value for the instance variables.
   def initialize(state_of_origin, population_density, population)
@@ -83,10 +83,6 @@ end
 # alaska = VirusPredictor.new("Alaska", STATE_DATA["Alaska"][:population_density], STATE_DATA["Alaska"][:population])
 # alaska.virus_effects
 
-STATE_DATA.each {|key, value|
-   state = VirusPredictor.new(key, value[:population_density], value[:population] )
-   state.virus_effects
-}
 
 =begin
 What are the differences between the two different hash syntaxes shown in the state_data file?
