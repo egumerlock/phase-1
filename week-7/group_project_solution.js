@@ -50,8 +50,8 @@ function median(array){
   var count = array.length - 1;
   var sorted = array.sort();
   var half = Math.floor(count/2);
-  (array.length % 2 !== 0) ? array[half] : ((array[half] + array[half + 1]) / 2)
-};
+  array.length % 2 !== 0 ? array[half] : ((array[half] + array[half + 1]) / 2);
+}
 
 
 // TEST CODE
